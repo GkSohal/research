@@ -1,4 +1,4 @@
 language: java
-branches: java
+branches: 
   only:
   - master
