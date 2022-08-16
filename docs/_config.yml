@@ -7,8 +7,8 @@ aux_links:
     - "https://github.com/SasanLabs/VulnerableApp"
 
 title: Vulnerable App
-description: Documentation for VulnerableApp
-baseurl: "/VulnerableApp" # the subpath of your site, e.g. /blog
+description: Documentation for Vulnerable App
+baseurl: "/VulnerableApp" # the subpath of your site, e.g. /myblog
 url: "https://sasanlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com"
 
 # Makes Aux links open in a new tab. Default is false
