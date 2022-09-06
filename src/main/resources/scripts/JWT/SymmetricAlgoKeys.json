@@ -2,7 +2,7 @@
 	{
 		"algorithm": "HS256",
 		"strength": "LOW",
-		"key": "password"
+		"key": "password12"
 	},
 	{
 		"algorithm": "HS256",
